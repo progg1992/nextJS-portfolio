@@ -25,12 +25,12 @@ export const projectsData = [
     name: "Multi Step Form",
     description: "Multiple part form that saves answers to local storage.",
     date: "2024-05-30",
-    demoLink: "",
+    demoLink: "https://multi-step-form-olff1bbwg-pierce-roggs-projects.vercel.app/add/step-one",
   },
   {
     id: 5,
     name: "Weather Tracker",
-    description: "Discover new recipes",
+    description: "Gather Data from NOAA and display it in a scatterplot",
     date: "2022-07-12",
     demoLink: "https://github.com/progg1992/pythonWeatherTracker",
   },
@@ -38,7 +38,7 @@ export const projectsData = [
     id: 6,
     name: "GFilta",
     description: "GMail organization application",
-    date: "2022-10-01",
+    date: "2023-08-01",
     demoLink: "https://gfilta.com",
   },
 
